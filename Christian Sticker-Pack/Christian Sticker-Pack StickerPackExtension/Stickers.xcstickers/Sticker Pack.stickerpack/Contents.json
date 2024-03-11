@@ -1,0 +1,44 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "creationofadam.sticker"
+    },
+    {
+      "filename" : "john1427.sticker"
+    },
+    {
+      "filename" : "lamb.sticker"
+    },
+    {
+      "filename" : "acts2.sticker"
+    },
+    {
+      "filename" : "lamb-window.sticker"
+    },
+    {
+      "filename" : "dove.sticker"
+    },
+    {
+      "filename" : "john127.sticker"
+    },
+    {
+      "filename" : "dove-and-jesus..sticker"
+    },
+    {
+      "filename" : "bible.sticker"
+    },
+    {
+      "filename" : "jesus.sticker"
+    },
+    {
+      "filename" : "ohmy.sticker"
+    }
+  ]
+}
